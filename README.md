@@ -1,1 +1,1 @@
-<img src=download.jpg>
+<img src=download.png>
